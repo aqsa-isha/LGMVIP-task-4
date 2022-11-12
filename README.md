@@ -1,2 +1,2 @@
 # LGMVIP-task-4
-Calculator
+Task 4: Simple Calculator
